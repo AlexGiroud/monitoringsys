@@ -1,0 +1,16 @@
+{
+  "name": "monitoringsys",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "azure-event-hubs": "0.0.6",
+    "azure-iot-device": "^1.1.6",
+    "azure-iot-device-mqtt": "^1.1.6"
+  }
+}
